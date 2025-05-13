@@ -2504,7 +2504,7 @@
     "weapon_id": 97,
     "ban_reason": "",
     "status_4v5": "Always",
-    "status_6v6": "Always",
+    "status_6v6": "Allowed",
     "status_pro": "Always",
     "weapon_name": "Rocket Launcher"
   },
